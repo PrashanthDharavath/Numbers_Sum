@@ -9,7 +9,7 @@ pipeline {
 	        UIPATH_ORCH_URL = "https://cloud.uipath.com/adrosauihznc/Adrosonic/orchestrator_/?tid=131282&fid=462061"
 	        UIPATH_ORCH_LOGICAL_NAME = "Adrosauihznc"
 	        UIPATH_ORCH_TENANT_NAME = "Adrosonic"
-	        UIPATH_ORCH_FOLDER_NAME = "Default"
+	        UIPATH_ORCH_FOLDER_NAME = "RPA Internal"
 	    }
 	
 
